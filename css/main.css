@@ -273,7 +273,7 @@ div.footer div.copyright p {
 
 @media (max-width: 790px) {
   div.container section.heading div.logo a {
-    font-size: 3em;
+    font-size: 2em;
   }
   div.container section.heading nav input {
     display: none;
@@ -373,4 +373,3 @@ div.footer div.copyright p {
     padding: .7em 0;
   }
 }
-/*# sourceMappingURL=main.css.map */
