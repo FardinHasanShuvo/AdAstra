@@ -373,3 +373,8 @@ div.footer div.copyright p {
     padding: .7em 0;
   }
 }
+
+@media (max-width: 690px) {
+  div.container section.heading div.logo a {
+    font-size: 1.5em;
+  }
