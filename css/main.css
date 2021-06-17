@@ -374,7 +374,7 @@ div.footer div.copyright p {
   }
 }
 
-@media (max-width: 690px) {
+@media (max-width: 750px) {
   div.container section.heading div.logo a {
     font-size: 1.5em;
   }
